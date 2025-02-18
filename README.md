@@ -17,6 +17,13 @@ Social media integration
 ![image alt](https://github.com/AnkitKumar666/Travel_Tour-Website/blob/dec0b2d707b045c4f2a14afc5152eee0e9e58811/images/Screenshot-3.png)
 
 
+## Live Demo
+
+[Travel_Tour-Website](https://ankitkumar666.github.io/Travel_Tour-Website/)
+
+## Repository
+
+[GitHub Repository]( https://github.com/AnkitKumar666/Travel_Tour-Website)
 
 ### **🚀 Getting Started**  
 1. Clone the repository:  
@@ -24,9 +31,9 @@ Social media integration
    https://github.com/AnkitKumar666/Travel_Tour-Website
    ```
 2. Open in Browser
-  ```sh
-  https://ankitkumar666.github.io/Travel_Tour-Website/
-   ```
+      ```sh
+      https://ankitkumar666.github.io/Travel_Tour-Website/
+      ```
 
 ### **📢 Contributing**  
 Feel free to fork this project, make improvements, and submit pull requests! 😊  
