@@ -1,7 +1,7 @@
 ### 🌍 ***Travel & Tour Website*** 
 
 ### **📌 Project Description** 
-A beautifully designed Travel & Tour Website that allows users to explore destinations, book trips, and get travel inspiration.
+A beautifully designed Travel & Tour Website that allows users to explore destinations, book trips, and get travel inspiration. 
 
 ### 🚀 Features 
 Responsive & modern UI
