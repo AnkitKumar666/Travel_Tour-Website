@@ -7,7 +7,7 @@ A beautifully designed Travel & Tour Website that allows users to explore destin
 Responsive & modern UI
 Interactive homepage with featured destinations
 Travel categories (Beaches, Mountains, Temples, etc.)
-Tour booking functionality
+Tour booking functionality 
 Newsletter subscription
 Social media integration 
 
