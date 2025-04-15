@@ -3,7 +3,7 @@
 ### **📌 Project Description** 
 A beautifully designed Travel & Tour Website that allows users to explore destinations, book trips, and get travel inspiration. 
 
-### 🚀 Features 
+### 🚀 Features
 Responsive & modern UI
 Interactive homepage with featured destinations
 Travel categories (Beaches, Mountains, Temples, etc.)
