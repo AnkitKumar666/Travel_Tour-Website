@@ -9,7 +9,7 @@ Interactive homepage with featured destinations
 Travel categories (Beaches, Mountains, Temples, etc.)
 Tour booking functionality
 Newsletter subscription
-Social media integration
+Social media integration 
 
 ### **📸 Screenshots**  
 ![image alt](https://github.com/AnkitKumar666/Travel_Tour-Website/blob/dec0b2d707b045c4f2a14afc5152eee0e9e58811/images/Screenshot-1.png)
