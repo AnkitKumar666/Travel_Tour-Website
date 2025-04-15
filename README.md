@@ -11,7 +11,7 @@ Tour booking functionality
 Newsletter subscription
 Social media integration 
 
-### **📸 Screenshots**  
+### **📸 Screenshots** 
 ![image alt](https://github.com/AnkitKumar666/Travel_Tour-Website/blob/dec0b2d707b045c4f2a14afc5152eee0e9e58811/images/Screenshot-1.png)
 ![image alt](https://github.com/AnkitKumar666/Travel_Tour-Website/blob/dec0b2d707b045c4f2a14afc5152eee0e9e58811/images/Screenshot-2.png)
 ![image alt](https://github.com/AnkitKumar666/Travel_Tour-Website/blob/dec0b2d707b045c4f2a14afc5152eee0e9e58811/images/Screenshot-3.png)
