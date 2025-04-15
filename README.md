@@ -25,7 +25,7 @@ Social media integration
 
 [GitHub Repository]( https://github.com/AnkitKumar666/Travel_Tour-Website)
 
-### **🚀 Getting Started**  
+### **🚀 Getting Started** 
 1. Clone the repository:  
       ```sh
    https://github.com/AnkitKumar666/Travel_Tour-Website
